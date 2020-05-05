@@ -1,0 +1,33 @@
+/*--Basic Reset Styles--*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: auto;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 50%;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2rem;
+  font-weight: 300;
+  position: relative;
+}
+
+i {
+  color: rgb(96, 96, 96);
+  font-size: 2.4rem;
+}
+
+/*--Typography--*/
+h1 {
+  font-size: 2.2rem;
+}
+
+h3 {
+  font-size: 1.4rem;
+  font-weight: 500;
+}
