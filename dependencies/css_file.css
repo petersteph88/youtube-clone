@@ -1,4 +1,3 @@
-/*--Basic Reset Styles--*/
 * {
   margin: 0;
   padding: 0;
@@ -22,7 +21,7 @@ i {
   font-size: 2.4rem;
 }
 
-/*--Typography--*/
+
 h1 {
   font-size: 2.2rem;
 }
@@ -30,4 +29,94 @@ h1 {
 h3 {
   font-size: 1.4rem;
   font-weight: 500;
+}
+
+
+main {
+  display: flex;
+  padding: 3rem 3rem;
+  padding-top: 9rem;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(96, 96, 96);
+}
+
+
+
+.nav-main {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .1);
+  height: 6rem;
+  display: flex;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+  background-color: white;
+}
+
+.nav-main ul {
+  list-style: none;
+}
+
+.nav-main li {
+  margin-right: 2rem;
+}
+
+.nav--list {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  padding: 1rem;
+  align-items: center;
+  align-self: center;
+  flex: 1
+}
+
+.nav--left {
+  display: flex;
+  align-items: center;
+}
+
+.nav--left img {
+  width: 10rem;
+  margin-left: 1rem;
+}
+
+.nav--search li {
+  display: flex;
+  ?
+}
+
+.nav--search input {
+  width: 70rem;
+  height: 3rem;
+  padding-left: 1rem;
+
+}
+
+
+.nav--search i {
+  
+  outline: none;
+  font-size: 2rem;
+  background-color: light-gray;
+  border: none;
+  align-items: right;
+  z-index: 2;
+}
+
+.nav--right {
+  display: flex;
+  align-items: center;
+}
+
+.nav--right img {
+  width: 3.2rem;
+  height: 3.2rem;
+  border-radius: 50%;
+}
+
+.nav--right li {
+  margin-right: 2rem;
 }
