@@ -1,5 +1,5 @@
 
-Project Name
+Youtube Clone Project
 
 A Clone of Youtube video page for microverse learning purposes. We embeded images and videos with basically HTML/CSS3.
 
