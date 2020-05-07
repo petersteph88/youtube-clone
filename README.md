@@ -1,27 +1,28 @@
+#Youtube Clone Project#
 
-Youtube Clone Project
-
-A Clone of Youtube video page for microverse learning purposes. We embeded images and videos with basically HTML/CSS3.
-
-screenshot
-
-<a href="#"><img src="dependencies/youtube-clonescreenshot1.PNG" alt="Page Screenshot" /></a>
+A Clone of Youtube video page for microverse learning purposes. We embeded images and videos with basically HTML andCSS.
+----
 
 
-Additional description about the project and its features.
+##Screenshot of the page##
+
+![]<img src="dependencies/youtube-clonescreenshot1.PNG" alt="Page Screenshot"/>
+----
 
 
-Built With
+##Built With##
 
-HTML and CSS3
+-HTML 
 
+-CSS
+----
 
-Live link here:
+##Live Demo##
 
 https://github.com/petersteph88/youtube-clone/blob/master/README.md
+----
 
-Contributors:
+##Authors##
 
-Kalu Agu Kalu Github: https://github.com/Godswilly
-
-Isiko Peter: Github: https://github.com/petersteph88
+-[Kalu Agu Kalu](https://github.com/Godswilly)
+-[Isiko Peter](https://github.com/petersteph88)
